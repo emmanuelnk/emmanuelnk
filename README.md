@@ -13,7 +13,7 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Front/Back-End Software Engineer and c
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/AWS-SolArchitect-Associate.png">  
 <br />  
   
-Certified Solutions Architect Associate ([view](https://www.youracclaim.com/earner/earned/badge/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdbk))  
+Certified Solutions Architect Associate ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
 <br />  
 <br />  
 ## What I care about
