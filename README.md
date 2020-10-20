@@ -1,6 +1,6 @@
 # Emmanuel N K [[@emmanuel_n_k](https://twitter.com/emmanuel_n_k)]
 
-<img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
+<img width="50%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
 
 Hi there! 👋🏿
 
