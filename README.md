@@ -7,15 +7,10 @@ Hi there! 👋🏿
 I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Front/Back-End Software Engineer and certified Solutions Architect. Currently involved in the design and maintenance of APIs and cloud based applications.
 
 
-📍Beijing, China<br/>
-👨🏿‍🎓 M.Eng Communications And Information Systems<br/>
-
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/AWS-SolArchitect-Associate.png">  
-<br />  
+📍&nbsp;&nbsp;&nbsp;Beijing, China  
+👨🏿‍🎓&nbsp;&nbsp;M.Eng Communications And Information Systems  
+📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
   
-Certified Solutions Architect Associate ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
-<br />  
-<br />  
 ## What I care about
 
 I'm love problem solving and advancing technology in ways that make our lives simpler. From the day my six year old self used five 3.5 floppy disks 💾 to install Encarta till today, my curiosity for learning new tech has never waned. 
