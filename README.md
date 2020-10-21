@@ -13,9 +13,9 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and s
   
 ## 🐻 What I care about
 
-I'm love problem solving and advancing technology in ways that make our lives simpler. From using five 3.5 💾floppy disks to install Encarta as a bored six year old till today, my curiosity for learning new things has never waned. 
+I'm love problem solving and advancing technology in ways that make our lives simpler. From using five 3.5 💾 floppy disks to install Encarta as a bored six year old till today, my curiosity for learning new things has never waned. 
 
-I'm usually wired in at night when I can realize bursts of creativity and focus while listening to 🎧hip-hop. When I'm not coding you can catch me watching artsy-fartsy/indie 🎞️films or prestige 📺TV shows.
+I'm usually wired in at night when I can realize bursts of creativity and focus while listening to 🎧 hip-hop. When I'm not coding you can catch me watching artsy-fartsy/indie 🎞️ films or prestige 📺 TV shows.
 
 ## 👷🏿 What I work with
 - Node.js, Typescript
