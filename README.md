@@ -11,7 +11,7 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Front/Back-End Software Engineer and c
 👨🏿‍🎓&nbsp;&nbsp;M.Eng Communications And Information Systems  
 📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
   
-## What I care about
+## 🐻 What I care about
 
 I'm love problem solving and advancing technology in ways that make our lives simpler. From the day my six year old self used five 3.5 floppy disks 💾 to install Encarta till today, my curiosity for learning new tech has never waned. 
 
@@ -19,7 +19,7 @@ I'm usually wired in at night when I can realize bursts of creativity and focus 
 
 When I'm not coding I'm watching artsy-fartsy/indie films 🎞️ or prestige TV📺
 
-## What I work with
+## 👷🏿 What I work with
 - Node.js, Typescript
 - API, REST, Koa, Express
 - Python
@@ -36,7 +36,7 @@ When I'm not coding I'm watching artsy-fartsy/indie films 🎞️ or prestige TV
 
 
 
-## Contact
+## ✉️ Contact
 Twitter: [@emmanuel_n_k](https://twitter.com/emmanuel_n_k)  
 Website: [emmanuelnk.com](https://emmanuelnk.com)
 
