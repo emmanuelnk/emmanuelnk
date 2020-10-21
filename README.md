@@ -4,7 +4,7 @@
 
 Hi there! 👋🏿
 
-I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Front/Back-End Software Engineer and solutions architect. Currently involved in the design and maintenance of APIs and cloud based applications.
+I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and solutions architect. Currently involved in the design and maintenance of APIs and cloud based applications.
 
 
 📍&nbsp;&nbsp;&nbsp;Beijing, China  
