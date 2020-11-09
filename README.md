@@ -1,4 +1,4 @@
-# Emmanuel N K [[@emmanuel_n_k](https://twitter.com/emmanuel_n_k)]
+# Emmanuel N K --[tw: @emmanuel_n_k](https://twitter.com/emmanuel_n_k)
 
 <img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
 
