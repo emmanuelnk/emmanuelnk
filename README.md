@@ -1,7 +1,5 @@
 # Emmanuel N K --[tw: @emmanuel_n_k](https://twitter.com/emmanuel_n_k)
 
-<img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
-
 Hi there! 👋🏿
 
 I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and solutions architect. Currently involved in the design and maintenance of APIs and cloud based applications.
@@ -37,6 +35,8 @@ I'm usually wired in at night when I can realize bursts of creativity and focus 
 ## ✉️ Contact
 Twitter: [@emmanuel_n_k](https://twitter.com/emmanuel_n_k)  
 Website: [emmanuelnk.com](https://emmanuelnk.com)
+
+<img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
 
 
 
