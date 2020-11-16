@@ -6,7 +6,7 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and s
 
 
 📍&nbsp;&nbsp;&nbsp;Beijing, China  
-👨🏿‍🎓&nbsp;&nbsp;M.Eng Communications And Information Systems  
+👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
 📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
   
 ## 🐻 What I care about
