@@ -8,7 +8,7 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and s
 📍&nbsp;&nbsp;&nbsp;Beijing, China  
 👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
 📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
-  
+
 ## 🐻 What I care about
 
 I love problem solving and advancing technology in ways that make our lives simpler. From using five 3.5 💾 floppy disks to install Encarta as a bored six year old till today, my curiosity for learning new things has never waned. 
@@ -35,6 +35,8 @@ I'm usually wired in at night when I can realize bursts of creativity and focus 
 ## ✉️ Contact
 Twitter: [@emmanuel_n_k](https://twitter.com/emmanuel_n_k)  
 Website: [emmanuelnk.com](https://emmanuelnk.com)
+
+[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk)](https://github.com/emmanuelnk/github-readme-stats)
 
 <img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
 
