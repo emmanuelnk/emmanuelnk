@@ -1,5 +1,9 @@
 # Emmanuel N K --[tw: @emmanuel_n_k](https://twitter.com/emmanuel_n_k)
 
+
+[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk&theme=onedark)](https://github.com/emmanuelnk/github-readme-stats)
+
+
 Hi there! 👋🏿
 
 I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and solutions architect. Currently involved in the design and maintenance of APIs and cloud based applications.
@@ -30,13 +34,9 @@ I'm usually wired in at night when I can realize bursts of creativity and focus 
 - CircleCI, BitBucket Pipelines, Github Actions, Travis
 - IoT, Arduino
 
-
-
 ## ✉️ Contact
 Twitter: [@emmanuel_n_k](https://twitter.com/emmanuel_n_k)  
 Website: [emmanuelnk.com](https://emmanuelnk.com)
-
-[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk)](https://github.com/emmanuelnk/github-readme-stats)
 
 <img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
 
