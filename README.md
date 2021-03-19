@@ -1,4 +1,4 @@
-# Emmanuel N K --[tw: @emmanuel_n_k](https://twitter.com/emmanuel_n_k)
+# Emmanuel N K --[twitter: @emmanuel_n_k](https://twitter.com/emmanuel_n_k)
 
 
 [![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk&theme=onedark)](https://github.com/emmanuelnk/github-readme-stats)
