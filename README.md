@@ -13,6 +13,8 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and s
 👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
 📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
 
+<a href="https://stackexchange.com/users/3555135"><img src="https://stackexchange.com/users/flair/3555135.png" width="208" height="58" alt="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ## 🐻 What I care about
 
 I love problem solving and advancing technology in ways that make our lives simpler. From using five 3.5 💾 floppy disks to install Encarta as a bored six year old till today, my curiosity for learning new things has never waned. 
