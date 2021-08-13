@@ -17,7 +17,7 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Currently working as a Site Reliabilit
 
 Back-end problem solver -- Love working with the cloud, networks, infrastructure as code, APIs and event-driven architecture. 
 
-I'm usually wired in at night when I can realize bursts of creativity and focus while listening to 🎧 hip-hop. When I'm not coding you can catch me watching artsy-fartsy/indie 🎞️ films or prestige 📺 TV shows.
+I'm usually wired in at night when I can realize bursts of creativity and focus 🎧 . When I'm not coding you can catch me watching artsy-fartsy/indie 🎞️ and prestige 📺.
 
 ## 👷🏿 What I work with
 - Node.js, Typescript
