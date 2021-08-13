@@ -2,7 +2,8 @@
 
 
 
-[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk)](https://github.com/emmanuelnk/github-readme-stats) <a href="https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url"><img src="https://user-images.githubusercontent.com/19330930/129369512-9f686c0f-204d-410b-b982-cfccb251732b.png" align="right" width="180" height="180" ></a>
+<a href="https://github.com/emmanuelnk/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=emmanuelnk" alt="Emmanuel's github stats" height="140" ></a>
+<a href="https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url"><img src="https://user-images.githubusercontent.com/19330930/129369512-9f686c0f-204d-410b-b982-cfccb251732b.png" width="120" height="120" ></a>
 
 Hi there! 👋🏿
 
