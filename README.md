@@ -1,8 +1,7 @@
-# Emmanuel N K --[twitter: @emmanuel_n_k](https://twitter.com/emmanuel_n_k)
+# Emmanuel N Kyeyune <a href="https://stackexchange.com/users/3555135"><img src="https://stackexchange.com/users/flair/3555135.png" align="right" width="208" height="58" alt="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
-[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk&theme=onedark)](https://github.com/emmanuelnk/github-readme-stats)
-
+[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk)](https://github.com/emmanuelnk/github-readme-stats)
 
 Hi there! 👋🏿
 
@@ -12,8 +11,6 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and s
 📍&nbsp;&nbsp;&nbsp;Beijing, China  
 👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
 📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
-
-<a href="https://stackexchange.com/users/3555135"><img src="https://stackexchange.com/users/flair/3555135.png" width="208" height="58" alt="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## 🐻 What I care about
 
