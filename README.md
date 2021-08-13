@@ -2,16 +2,13 @@
 
 
 
-[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk)](https://github.com/emmanuelnk/github-readme-stats) <a href="https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url"><img src="https://user-images.githubusercontent.com/19330930/129369512-9f686c0f-204d-410b-b982-cfccb251732b.png" align="right" width="200" height="200" ></a>
+[![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=emmanuelnk)](https://github.com/emmanuelnk/github-readme-stats) <a href="https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url"><img src="https://user-images.githubusercontent.com/19330930/129369512-9f686c0f-204d-410b-b982-cfccb251732b.png" align="right" width="180" height="180" ></a>
 
 Hi there! 👋🏿
 
-I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- front/back-end software engineer and solutions architect. Currently involved in the design and maintenance of APIs and cloud based applications.
-
-
-📍&nbsp;&nbsp;&nbsp;Beijing, China  
-👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
-📜&nbsp;&nbsp;AWS Certified Solutions Architect ([view](https://www.youracclaim.com/badges/a3152cd8-e8dd-4c7b-8d26-e98e3f5f3bdb/public_url))  
+I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Software Engineer currently working in Site Reliability Enigineering.
+- 📍&nbsp;&nbsp;&nbsp;Shanghai, China  
+- 👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
 
 ## 🐻 What I care about
 
