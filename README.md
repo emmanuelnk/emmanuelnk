@@ -32,14 +32,9 @@ I'm usually wired in at night when I can realize bursts of creativity and focus 
 - CircleCI, BitBucket Pipelines, Github Actions, Travis
 - IoT, Arduino
 
-## My Website! (click image)
-[<img src="https://user-images.githubusercontent.com/19330930/129368549-2a6f361a-a9df-4fba-9770-d7e81ed64f5f.gif">](https://emmanuelnk.com)
-
 ## ✉️ Contact
 Twitter: [@emmanuel_n_k](https://twitter.com/emmanuel_n_k)  
 Website: [emmanuelnk.com](https://emmanuelnk.com)
 
-<img width="100%" src="https://raw.githubusercontent.com/emmanuelnk/emmanuelnk.github.io/master/img/emma_banner.gif">
-
-
-
+## My Website! (click image)
+[<img src="https://user-images.githubusercontent.com/19330930/129368549-2a6f361a-a9df-4fba-9770-d7e81ed64f5f.gif">](https://emmanuelnk.com)
