@@ -7,7 +7,7 @@
 
 Hi there! 👋🏿
 
-I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Software Engineer currently working in Site Reliability Enigineering.
+I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Currently working as a Site Reliability Engineer.
 - 📍&nbsp;&nbsp;&nbsp;Shanghai, China  
 - 👨🏿‍🎓&nbsp;&nbsp;Masters of Engineering -- Information Systems  
 
