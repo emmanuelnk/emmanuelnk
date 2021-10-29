@@ -7,9 +7,9 @@
 
 #
 
-Hi there! 👋🏿
+Hi!
 
-I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Currently working as a Site Reliability Engineer. 
+I'm Emmanuel -- From 🇺🇬 and currently in 🇨🇳 working in as a Site Reliability Engineer. 
 
 <a href="https://stackexchange.com/users/3555135"><img src="https://stackexchange.com/users/flair/3555135.png?theme=clean" width="208" height="58" alt="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
 
@@ -17,7 +17,7 @@ I'm Emmanuel Nsubuga Kyeyune 🇺🇬  -- Currently working as a Site Reliabilit
 
 Back-end problem solver -- Love working with the cloud, networks, infrastructure as code, APIs and event-driven architecture. 
 
-I'm usually wired in at night when I can realize bursts of creativity and focus 🎧 . When I'm not coding you can catch me watching artsy-fartsy/indie 🎞️ and prestige 📺.
+I'm usually wired in at night when I can realize bursts of creativity and focus. When I'm not coding you can catch me watching artsy-fartsy/indie films and prestige tv shows.
 
 ## 👷🏿 What I work with
 - Node.js, Typescript
