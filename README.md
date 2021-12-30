@@ -9,7 +9,7 @@
 
 Hi!
 
-I'm Emmanuel -- From 🇺🇬 and currently in 🇨🇳 working in as a Site Reliability Engineer. 
+I'm Emmanuel -- From 🇺🇬 and currently in 🇨🇦 working in as a Site Reliability Engineer. 
 
 <a href="https://stackexchange.com/users/3555135"><img src="https://stackexchange.com/users/flair/3555135.png?theme=clean" width="208" height="58" alt="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel N K on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
 
