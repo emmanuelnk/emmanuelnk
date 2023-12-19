@@ -8,7 +8,6 @@ Devops and Cloud Tech Lead from 🇺🇬 and currently in 🇨🇦.
 Cloud computing, System Design, DevOps, IaC, CI/CD, APIs and event-driven architecture. 
 
 ## 👷🏿 Experienced in
-- Typescript, Python
 - AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS, AppSync, Opensearch)
 - Infrastructure As Code (AWS CDK, Terraform, Pulumi, Serverless, Cloudformation)
 - CI/CD Pipelines (Github Actions, AWS Codepipeline, CircleCI, Travis)
