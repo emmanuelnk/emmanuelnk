@@ -3,14 +3,15 @@
 
 ## 🐻 What I love
 
-Cloud computing, System Design, DevOps, IaC, CI/CD, APIs and event-driven architecture. 
+Platform Engineering, Cloud Infrastructure, System Design, CI/CD, API development and event-driven architecture. 
 
 ## 👷🏿 Experienced in
-- AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS, AppSync, Opensearch)
-- Infrastructure As Code (AWS CDK, Terraform, Pulumi, Serverless, Cloudformation)
-- CI/CD Pipelines (Github Actions, AWS Codepipeline, CircleCI, Travis)
-- Observability/Monitoring (New Relic, Grafana, AWS Cloudwatch, ELK
-- Linux (Ubuntu, RHEL)
-- APIs (GraphQL, REST, RPC, Koa, Express)
-- Databases(MySQL, PostgreSQL, Redis, Memcache, Elasticsearch)
-- Google Cloud, Azure, AliCloud, DigitalOcean, Heroku
+- TypeScript, Python, Node.js, Rust, C++
+- Massive scale API Development -- GraphQL, REST, RPC, Nest.js, Next.js, Koa, Express, FastApi
+- Cloud Infrastructure Design -- AWS, Google Cloud, Azure, AliCloud, DigitalOcean, Heroku
+- Database Design -- MySQL, PostgreSQL, DyanmoDB, Redis, Memcache, Elasticsearch
+- Infrastructure As Code -- AWS CDK, Terraform, Pulumi, Serverless, Cloudformation, Jenkins
+- CI/CD Pipelines -- Github Actions, AWS Codepipeline, CircleCI, Travis
+- Observability/Monitoring -- New Relic, Grafana, AWS Cloudwatch, DataDog, ELK
+- Linux SysAdmin -- Ubuntu, RHEL
+
